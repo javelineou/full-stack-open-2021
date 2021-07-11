@@ -26,5 +26,5 @@ const App = () => {
 
     return <Course course={course} />
 }
-
+//gblog
 export default App
